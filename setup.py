@@ -5,8 +5,8 @@ with open("requirements.txt") as f:
 
 setup(
     name="FLIPKART RECOMMENDER",
-    version="0.1",
-    author="Sudhanshu",
+    version="0.11",
+    author="solawd",
     packages=find_packages(),
     install_requires = requirements,
 )

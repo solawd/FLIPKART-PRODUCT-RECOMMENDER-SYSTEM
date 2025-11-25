@@ -9,7 +9,7 @@ class DataIngestor:
 
         self.vstore = AstraDBVectorStore(
             embedding=self.embedding,
-            collection_name="flipkart_database",
+            collection_name="LLM_COURSE_DB",
             api_endpoint=Config.ASTRA_DB_API_ENDPOINT,
             token=Config.ASTRA_DB_APPLICATION_TOKEN,
             namespace=Config.ASTRA_DB_KEYSPACE
