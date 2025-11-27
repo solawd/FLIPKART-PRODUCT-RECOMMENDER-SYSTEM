@@ -2,3 +2,4 @@
 venv/
 FLIPKART_RECOMMENDER.egg-info/
 .idea/
+*/__pycache__*
