@@ -5,3 +5,4 @@ FLIPKART_RECOMMENDER.egg-info/
 */__pycache__/
 build/
 .venv/
+flipkart/__pycache__/
